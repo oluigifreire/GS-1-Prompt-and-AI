@@ -10,5 +10,5 @@ ARIA (Autonomous Response & Intelligence Analyst) é um chatbot de controle de m
 
  ## Demonstração
 
-![Simualção1](assets/print-1-gs-ia.png)
-![Simualção2](assets/print-2-gs-ia.png)
+![Simualção1](print-1-gs-ia.png)
+![Simualção2](print-2-gs-ia.png)
