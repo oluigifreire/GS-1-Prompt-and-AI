@@ -9,3 +9,6 @@ Raphael Chen Rue Tien - RM 570261
 ARIA (Autonomous Response & Intelligence Analyst) é um chatbot de controle de missão espacial que conecta o Gemini a um banco de telemetria real no Supabase, contendo 100 órbitas simuladas com dados de energia, temperatura, comunicação e suporte à vida. Via tool calling, a IA busca dados, gera gráficos e monta dashboards automaticamente, respondendo em linguagem natural com análises operacionais e alertas críticos da missão.
 
  ## Demonstração
+
+![Simualção1](assets/print-1-gs-ia.png)
+![Simualção2](assets/print-2-gs-ia.png)
