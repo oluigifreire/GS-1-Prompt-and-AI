@@ -12,3 +12,10 @@ ARIA (Autonomous Response & Intelligence Analyst) é um chatbot de controle de m
 
 ![Simualção1](print-1-gs-ia.png)
 ![Simualção2](print-2-gs-ia.png)
+
+## Como Executar
+
+Abra o notebook no Google Colab:
+[Acessar Notebook](https://colab.research.google.com/drive/1hiZjmWOju8EZU_EiWtQJSuS6VfTGZJBS?usp=sharing)
+
+Execute as células em ordem. Supabase e Gemini já estão configurados.
